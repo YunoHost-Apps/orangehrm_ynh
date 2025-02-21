@@ -24,11 +24,6 @@ Human Resource Management (HRM) System that captures all the essential functiona
 **Geleverde versie:** 5.7~ynh1
 
 **Demo:** <https://opensource-demo.orangehrmlive.com/web/index.php/auth/login>
-
-## Schermafdrukken
-
-![Schermafdrukken van OrangeHRM](./doc/screenshots/example.jpg)
-
 ## Documentatie en bronnen
 
 - Officiele website van de app: <http://www.orangehrm.com/>
