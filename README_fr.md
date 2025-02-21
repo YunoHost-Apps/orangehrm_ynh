@@ -23,6 +23,11 @@ Système de gestion des ressources humaines (GRH) qui comprend toutes les foncti
 **Version incluse :** 5.7~ynh1
 
 **Démo :** <https://opensource-demo.orangehrmlive.com/web/index.php/auth/login>
+
+## Captures d’écran
+
+![Capture d’écran de OrangeHRM](./doc/screenshots/Screenshot.png)
+
 ## Documentations et ressources
 
 - Site officiel de l’app : <http://www.orangehrm.com/>
