@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Système de gestion des ressources humaines (GRH) qui comprend toutes les fonctionnalités essentielles requises pour toute entreprise.
