@@ -24,6 +24,11 @@ Human Resource Management (HRM) System that captures all the essential functiona
 **分发版本：** 5.7~ynh1
 
 **演示：** <https://opensource-demo.orangehrmlive.com/web/index.php/auth/login>
+
+## 截图
+
+![OrangeHRM 的截图](./doc/screenshots/Screenshot.png)
+
 ## 文档与资源
 
 - 官方应用网站： <http://www.orangehrm.com/>
