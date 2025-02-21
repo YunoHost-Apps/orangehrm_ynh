@@ -18,8 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
-
+Système de gestion des ressources humaines (GRH) qui comprend toutes les fonctionnalités essentielles requises pour toute entreprise.
 
 **Version incluse :** 5.7~ynh1
 
