@@ -18,7 +18,7 @@ NON debe editarse manualmente.
 
 ## Vista xeral
 
-This is a dummy description of this app features
+Human Resource Management (HRM) System that captures all the essential functionalities required for any enterpris.
 
 
 **Versión proporcionada:** 5.7~ynh1
@@ -27,7 +27,7 @@ This is a dummy description of this app features
 
 ## Capturas de pantalla
 
-![Captura de pantalla de OrangeHRM](./doc/screenshots/example.jpg)
+![Captura de pantalla de OrangeHRM](./doc/screenshots/Screenshot.png)
 
 ## Documentación e recursos
 

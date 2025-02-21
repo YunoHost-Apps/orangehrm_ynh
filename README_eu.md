@@ -18,7 +18,7 @@ EZ editatu eskuz.
 
 ## Aurreikuspena
 
-This is a dummy description of this app features
+Human Resource Management (HRM) System that captures all the essential functionalities required for any enterpris.
 
 
 **Paketatutako bertsioa:** 5.7~ynh1
@@ -27,7 +27,7 @@ This is a dummy description of this app features
 
 ## Pantaila-argazkiak
 
-![OrangeHRM(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
+![OrangeHRM(r)en pantaila-argazkia](./doc/screenshots/Screenshot.png)
 
 ## Dokumentazioa eta baliabideak
 

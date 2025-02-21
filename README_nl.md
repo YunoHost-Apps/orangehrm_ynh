@@ -18,7 +18,7 @@ Hij mag NIET handmatig aangepast worden.
 
 ## Overzicht
 
-This is a dummy description of this app features
+Human Resource Management (HRM) System that captures all the essential functionalities required for any enterpris.
 
 
 **Geleverde versie:** 5.7~ynh1
@@ -27,7 +27,7 @@ This is a dummy description of this app features
 
 ## Schermafdrukken
 
-![Schermafdrukken van OrangeHRM](./doc/screenshots/example.jpg)
+![Schermafdrukken van OrangeHRM](./doc/screenshots/Screenshot.png)
 
 ## Documentatie en bronnen
 

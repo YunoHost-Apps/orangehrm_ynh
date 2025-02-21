@@ -18,7 +18,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 ## Ringkasan
 
-This is a dummy description of this app features
+Human Resource Management (HRM) System that captures all the essential functionalities required for any enterpris.
 
 
 **Versi terkirim:** 5.7~ynh1
@@ -27,7 +27,7 @@ This is a dummy description of this app features
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada OrangeHRM](./doc/screenshots/example.jpg)
+![Tangkapan Layar pada OrangeHRM](./doc/screenshots/Screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
